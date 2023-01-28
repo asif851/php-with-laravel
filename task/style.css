@@ -48,7 +48,7 @@ header span{
 .what-i-do >p{
     font-size: 25px;
 }
-.what-i-do .row .col{
+.col{
     margin: 10px 1%;
     width:31.3%;
     float: left;
@@ -75,4 +75,9 @@ header span{
 
 .my-work .menu ul li a:hover{
     border-bottom: 1px solid #7b77c9;
+}
+
+.my-work .row .col{
+    color:black;
+    
 }
